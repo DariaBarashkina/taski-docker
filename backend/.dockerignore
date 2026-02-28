@@ -1,3 +1,5 @@
 venv
 .git
+
+# База данных.
 db.sqlite3
